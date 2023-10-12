@@ -1,0 +1,10 @@
+/* 
+* Optional: Makes the sample page fill the window. 
+*/
+html,
+body,
+#app {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
